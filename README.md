@@ -5,7 +5,7 @@ This repository contains code that uses the YOLO (You Only Look Once) model to d
 Before running the code, make sure you have the following:
 
 * Python environment with required packages installed
-* YOLO weights and configuration files (yolov4.weights and yolov4.cfg)
+* [YOLO weights](https://drive.google.com/uc?export=download&id=1wynfQdoduY14w_1EtrbmJE6j7mxdGMbT)
 * COCO class names file (coco.names)
 * An image to be used for detection (image.jpg)
 
